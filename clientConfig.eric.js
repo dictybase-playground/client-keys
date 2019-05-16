@@ -1,5 +1,5 @@
 const clientConfig = {
-  orcid: { clientId: "APP-Y35D1DVLCC4PL0JL" },
+  orcid: { clientId: "APP-WMS3MZZ97UNRSK2O" },
   google: {
     clientId:
       "697274165688-m06dno4kic0hc92avpj15djd30cvirsb.apps.googleusercontent.com",
